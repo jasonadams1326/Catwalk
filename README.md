@@ -31,7 +31,8 @@ Ratings and Reviews
 
 ### 🧪 Technologies
 
--React
+*React
+
 
 ### 🤝 Contributors
 
