@@ -31,7 +31,10 @@ Ratings and Reviews
 
 ### 🧪 Technologies
 
-*React
+* React
+* Node
+* Express
+* AWS EC2
 
 
 ### 🤝 Contributors
